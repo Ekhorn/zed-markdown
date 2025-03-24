@@ -1,0 +1,19 @@
+id = "markdown"
+name = "markdown"
+version = "0.0.0"
+schema_version = 1
+authors = ["Koen Schellingerhout <koen@kschellingerhout.nl>"]
+description = ""
+repository = "https://github.com/Ekhorn/zed-markdown.git"
+
+# [language_servers.texlab]
+# name = "TexLab (Latex Language Server)"
+# language = "LaTeX"
+
+# [grammars.bibtex]
+# repository = "https://github.com/latex-lsp/tree-sitter-bibtex"
+# commit = "ccfd77db0ed799b6c22c214fe9d2937f47bc8b34"
+
+# [grammars.latex]
+# repository = "https://github.com/latex-lsp/tree-sitter-latex"
+# commit = "a6c812704b3d3e1541b0853aa0d6d561301320e1"

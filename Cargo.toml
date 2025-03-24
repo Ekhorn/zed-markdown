@@ -1,0 +1,14 @@
+[package]
+name = "markdown"
+version = "0.1.8"
+edition = "2021"
+
+[lib]
+path = "src/markdown.rs"
+crate-type = ["cdylib"]
+
+[dependencies]
+chrono = "0.4.40"
+serde = "1.0.210"
+serde_with = "3.11.0"
+zed_extension_api = "0.1.0"
